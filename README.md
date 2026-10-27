@@ -11,7 +11,7 @@ CA is primarily used on Linux.
 ### Installing
 Run the following:
 ```sh
-git clone https://github.com/pmmp/CrashArchive
+git clone https://github.com/CosmicMC-PMMP/CrashArchive
 cd CrashArchive
 ```
 Run the following to generate configuration files:
